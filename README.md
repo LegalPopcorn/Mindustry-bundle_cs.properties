@@ -1,1 +1,1 @@
-# Mindustry-bundle_cs.properties
+Projekt určený k sjednocení překladu hry Mindustry.
